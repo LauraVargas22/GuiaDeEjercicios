@@ -11,3 +11,8 @@ Los ejercicios cardiovasculares, también conocidos como cardio o aeróbicos, so
 - Mejoran la función pulmonar: Aumentan la capacidad pulmonar. 
 - Mejoran el sueño: Ayudan a conciliar el sueño más rápido y permanecer dormido más tiempo. 
 - Mejoran la función cognitiva: Contribuyen a mejorar la función cognitiva.
+
+## Instrucciones:
+1. Calentamiento de 5 a 10 minutos.
+2. Las actividades a realizar pueden ser: caminar, correr, saltar soga, bicicleta. baile aeróbico o ejercicios de calistenia.
+3. Realizar estiramientos.
