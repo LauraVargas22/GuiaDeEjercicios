@@ -10,3 +10,10 @@ Los ejercicios de fuerza son actividades físicas diseñadas para mejorar la cap
 - Prevención de lesiones: Fortalece los músculos y articulaciones.
 - Mejor calidad de vida: Incrementa la resistencia para actividades diarias.
 - Beneficios mentales: Reduce el estrés y mejora el bienestar general.
+
+## Instrucciones:
+1. Selecciona un peso adecuado: Comienza con un peso que puedas levantar con control entre 10 y 12 repeticiones.
+2. Repeticiones y series: Realiza 2-3 series de 8-12 repeticiones para cada ejercicio.
+3. Variedad: Incorpora ejercicios para todos los grupos musculares principales (piernas, espalda, pecho, brazos y core).
+4. Frecuencia: Entrena de 2 a 3 veces por semana.
+5. Descanso entre series: Toma entre 30 segundos y 2 minutos dependiendo de la intensidad.
