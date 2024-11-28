@@ -20,3 +20,11 @@ El entrenamiento funcional es un tipo de ejercicio diseñado para mejorar la fue
 3. Frecuencia: Entrena de 2 a 4 veces por semana.
 4. Duración: Las sesiones suelen durar entre 30 y 60 minutos.
 5. Enfócate en la calidad: Realiza movimientos controlados y conscientes.
+
+## Consejos:
+- Calentamiento: Dedica 5-10 minutos a activar músculos y articulaciones.
+- Prioriza la técnica: Aprende la forma correcta antes de aumentar intensidad o carga.
+- Movimientos completos: Enfócate en patrones naturales como sentadillas, empujes y rotaciones.
+- Progreso gradual: Aumenta la dificultad poco a poco con peso, resistencia o complejidad.
+- Estabilidad primero: Fortalece el core para mejorar el control del cuerpo en los ejercicios.
+- Usa accesorios: Incorpora herramientas como balones medicinales, kettlebells, TRX o bandas elásticas para mayor variedad.
