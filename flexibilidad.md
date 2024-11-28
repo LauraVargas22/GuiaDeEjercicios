@@ -10,3 +10,10 @@ Los ejercicios de flexibilidad están diseñados para mejorar la capacidad de lo
 - Relajación: Promueve el bienestar mental y físico al reducir el estrés.
 - Recuperación muscular: Ayuda a los músculos a relajarse después del ejercicio.
 - Mejora de la circulación: Favorece el flujo sanguíneo hacia los músculos.
+
+## Instrucciones: 
+1. Duración de los estiramientos: Mantén cada estiramiento entre 15 y 30 segundos.
+Repeticiones: Realiza 2-3 repeticiones por ejercicio.
+Tipos de ejercicios: Incluye estiramientos dinámicos (antes del ejercicio) y estáticos (después).
+Frecuencia: Realiza una rutina de flexibilidad al menos 3 veces por semana.
+Atención al cuerpo: Detente si sientes dolor o incomodidad excesiva.
