@@ -16,3 +16,8 @@ Los ejercicios cardiovasculares, también conocidos como cardio o aeróbicos, so
 1. Calentamiento de 5 a 10 minutos.
 2. Las actividades a realizar pueden ser: caminar, correr, saltar soga, bicicleta. baile aeróbico o ejercicios de calistenia.
 3. Realizar estiramientos.
+
+## Consejos:
+- Realizar tanto calentamiento como estiramiento.
+- El aumento de la instensidad debe ser moderada y gradualmente.
+- La duración debe ser al menos 150 minutos de actividad aeróbica moderada o 75 minutos de actividad aeróbica vigorosa a la semana.
