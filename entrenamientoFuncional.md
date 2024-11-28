@@ -10,3 +10,13 @@ El entrenamiento funcional es un tipo de ejercicio diseñado para mejorar la fue
 - Condición física general: Trabaja resistencia, fuerza y flexibilidad en conjunto.
 - Adaptable: Puede ajustarse a cualquier nivel de condición física.
 - Variedad y dinamismo: Incluye ejercicios diversos que evitan la monotonía.
+
+## Instrucciones:
+1. Estructura de la sesión:
+    - Calentamiento (5-10 minutos).
+    - Ejercicios funcionales (20-30 minutos).
+    - Estiramientos de enfriamiento (5-10 minutos).
+2. Series y repeticiones: Realiza 2-3 series de 10-15 repeticiones por ejercicio.
+3. Frecuencia: Entrena de 2 a 4 veces por semana.
+4. Duración: Las sesiones suelen durar entre 30 y 60 minutos.
+5. Enfócate en la calidad: Realiza movimientos controlados y conscientes.
