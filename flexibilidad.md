@@ -17,3 +17,11 @@ Repeticiones: Realiza 2-3 repeticiones por ejercicio.
 Tipos de ejercicios: Incluye estiramientos dinámicos (antes del ejercicio) y estáticos (después).
 Frecuencia: Realiza una rutina de flexibilidad al menos 3 veces por semana.
 Atención al cuerpo: Detente si sientes dolor o incomodidad excesiva.
+
+## Consejos:
+- Calienta previamente: Realiza 5-10 minutos de actividad ligera antes de estirar.
+- Sé constante: Practica al menos 3-5 veces por semana para notar mejoras.
+- Evita el rebote: Mantén los estiramientos de forma estática para evitar lesiones.
+- Respira profundamente: Usa la respiración para relajarte durante los estiramientos.
+- Progreso suave: No forces los músculos más allá de su límite cómodo.
+- Equilibrio: Dedica tiempo a estirar todos los grupos musculares principales.
