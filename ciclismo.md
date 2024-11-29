@@ -15,3 +15,9 @@ El ciclismo es una actividad física que consiste en montar una bicicleta, ya se
 3. Intensidad: Mantén un ritmo cómodo donde puedas hablar sin dificultad; ajusta la intensidad según tu nivel de forma física.
 4. Rutas y terreno: Comienza en superficies planas, como caminos pavimentados o senderos.
 5. Seguridad: Siempre respeta las señales de tráfico y usa ropa visible si pedaleas de noche o en condiciones de baja visibilidad.
+
+## Consejos:
+- Ajusta bien tu bicicleta: Asegúrate de que el asiento y el manillar estén a la altura correcta para evitar lesiones y mejorar la eficiencia.
+- Calienta y estira: Realiza un calentamiento ligero antes de salir a rodar y estira después para evitar tensiones musculares.
+- Mantén una buena postura: Evita encorvarte; mantén la espalda recta y los codos ligeramente doblados.
+- Hidratación: Bebe agua antes, durante y después del ciclismo, especialmente en salidas largas o intensas.
