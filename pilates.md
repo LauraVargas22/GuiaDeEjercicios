@@ -18,3 +18,9 @@ El Pilates es un sistema de ejercicio que se enfoca en mejorar la flexibilidad, 
 3. Frecuencia: Se recomienda practicar entre 2 y 4 veces por semana.
 4. Series y repeticiones: Realiza 1-3 series de cada ejercicio con 8-12 repeticiones.
 5. Conciencia corporal: Mantén siempre la conciencia en la postura y el control de cada movimiento.
+
+## Consejos:
+- Respiración adecuada: La respiración es esencial; exhala al realizar un esfuerzo e inhala al relajarte.
+- Mantén la alineación: Trabaja en la correcta postura y alineación durante cada ejercicio para evitar lesiones.
+- Realiza movimientos suaves: No apresures los ejercicios; la calidad es más importante que la cantidad.
+- Práctica regular: Para obtener los mejores resultados, practica Pilates de 2 a 3 veces por semana.
