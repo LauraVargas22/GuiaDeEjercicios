@@ -11,3 +11,10 @@ El Pilates es un sistema de ejercicio que se enfoca en mejorar la flexibilidad, 
 - Desarrollo de equilibrio y coordinación: Mejora la integración de movimientos y el control corporal.
 - Recuperación postural: Ayuda a aliviar dolores de espalda y cuello.
 - Mejora de la respiración: Utiliza la respiración controlada para optimizar los movimientos y relajarse.
+
+## Instrucciones: 
+1. Calentamiento: Comienza con ejercicios suaves para activar el cuerpo, como respiración y movimientos de movilidad articular.
+2. Duración de las sesiones: Una clase de Pilates dura entre 45 y 60 minutos.
+3. Frecuencia: Se recomienda practicar entre 2 y 4 veces por semana.
+4. Series y repeticiones: Realiza 1-3 series de cada ejercicio con 8-12 repeticiones.
+5. Conciencia corporal: Mantén siempre la conciencia en la postura y el control de cada movimiento.
