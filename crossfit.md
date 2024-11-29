@@ -15,3 +15,8 @@ El CrossFit es un programa de entrenamiento de alta intensidad que combina movim
 3. Trabajo cardiovascular: Las sesiones de CrossFit también incluyen ejercicios como correr, nadar, saltar la cuerda, burpees, etc.
 4. Recuperación: Asegúrate de descansar adecuadamente entre sesiones y realizar estiramientos para evitar lesiones y facilitar la recuperación muscular.
 5. Realiza progresiones: Al principio, usa un peso ligero o un nivel de dificultad bajo, y gradualmente ve aumentando la carga a medida que mejoras.
+
+## Consejos:
+- Progresión gradual: Comienza con movimientos más fáciles y aumenta la dificultad con el tiempo a medida que mejoras tu fuerza y resistencia.
+- Combina fuerza y cardio: Los entrenamientos de CrossFit suelen combinar levantamiento de pesas con ejercicios cardiovasculares (como correr, saltar la cuerda o hacer burpees).
+- Hidratación y nutrición: Bebe suficiente agua antes, durante y después de entrenar, y sigue una dieta balanceada para optimizar tu rendimiento.
