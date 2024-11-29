@@ -8,3 +8,10 @@ El ciclismo es una actividad física que consiste en montar una bicicleta, ya se
 - Mejora de la salud mental: Ayuda a reducir el estrés, la ansiedad y mejora el bienestar general.
 - Fortalecimiento del core: Mantener una postura estable en la bicicleta involucra los músculos del abdomen y la espalda baja.
 - Aumento de la flexibilidad: Las piernas se estiran y contraen con cada pedalada, mejorando la flexibilidad muscular.
+
+## Instrucciones:
+1. Duración de las sesiones: Empieza con sesiones de 30 a 45 minutos, 3 a 4 veces por semana.
+2. Frecuencia: A medida que tu condición física mejora, puedes aumentar la duración y frecuencia a 5-6 veces por semana.
+3. Intensidad: Mantén un ritmo cómodo donde puedas hablar sin dificultad; ajusta la intensidad según tu nivel de forma física.
+4. Rutas y terreno: Comienza en superficies planas, como caminos pavimentados o senderos.
+5. Seguridad: Siempre respeta las señales de tráfico y usa ropa visible si pedaleas de noche o en condiciones de baja visibilidad.
