@@ -11,3 +11,13 @@ El yoga es una práctica física, mental y espiritual que combina posturas (asan
 - Mejora la circulación: Estimula el flujo sanguíneo y la oxigenación del cuerpo.
 - Fomenta la relajación: Ayuda a combatir el insomnio y promueve el descanso reparador.
 - Desarrollo de la conciencia corporal: Potencia la conexión mente-cuerpo.
+
+## Instrucciones: 
+1. Comienza con posturas simples: Aprende las posturas básicas antes de intentar secuencias más avanzadas.
+2. Duración: Dedica entre 10 y 30 segundos a cada postura según tu comodidad.
+3. Respiración: Mantén una respiración profunda y constante durante toda la práctica.
+4. Secuencia recomendada:
+    - Inicio: Calentamiento con saludos al sol (Surya Namaskar).
+    - Posturas principales: Incluye equilibrio, fuerza y flexibilidad.
+    - Enfriamiento: Posturas restaurativas como la postura del niño (Balasana).
+    - Cierre: Relajación en Savasana (postura del cadáver).
