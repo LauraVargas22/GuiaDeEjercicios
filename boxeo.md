@@ -16,3 +16,9 @@ El boxeo es un deporte de combate que involucra el uso de los puños para atacar
 3. Entrenamiento de fuerza: Incorpora ejercicios de fuerza, como flexiones, abdominales y trabajo con pesas para mejorar tu potencia de golpe.
 4. Combina cardio y técnica: Alterna entre trabajo de técnica (como golpear el saco) y ejercicios cardiovasculares (como saltar la cuerda).
 5. Trabajo en pareja o con saco: Si entrenas con un compañero o con un saco de boxeo, puedes practicar combinaciones de golpes y mejorar tu velocidad, precisión y resistencia.
+
+## Consejos:
+- Comienza con lo básico: Si eres principiante, es fundamental aprender las técnicas correctas de los golpes (jab, cross, uppercut, etc.) y los movimientos de pies.
+- Realiza un buen calentamiento: Haz ejercicios cardiovasculares como saltar la cuerda o correr en el sitio antes de comenzar los entrenamientos.
+- Enfócate en la técnica: La forma es más importante que la fuerza al principio; un buen golpe comienza con una técnica correcta.
+- Protege tus muñecas y manos: Usa vendas o guantes adecuados para evitar lesiones en las manos y muñecas.
