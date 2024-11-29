@@ -14,3 +14,8 @@ La natación es una actividad física que se realiza en el agua y que involucra 
 2. Frecuencia: A medida que tu resistencia y técnica mejoren, puedes aumentar la duración y practicar de 3 a 5 veces por semana.
 3. Intensidad: Mantén un ritmo cómodo en el que puedas nadar sin fatigarte demasiado.
 4. Descanso: Toma breves descansos entre series de nado para evitar la fatiga excesiva.
+
+## Consejos:
+- Elige un estilo adecuado: Si eres principiante, comienza con estilos más sencillos, como el estilo libre o la espalda.
+- Mantén una buena técnica: Asegúrate de aprender la técnica correcta de cada estilo para evitar lesiones y maximizar los beneficios.
+- Respira adecuadamente: En la natación, es clave coordinar la respiración con el movimiento para mejorar la eficiencia.
