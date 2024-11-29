@@ -21,3 +21,8 @@ El yoga es una práctica física, mental y espiritual que combina posturas (asan
     - Posturas principales: Incluye equilibrio, fuerza y flexibilidad.
     - Enfriamiento: Posturas restaurativas como la postura del niño (Balasana).
     - Cierre: Relajación en Savasana (postura del cadáver).
+
+## Consejos:
+- Crea un espacio tranquilo: Busca un lugar sin distracciones para practicar.
+- Usa ropa cómoda: Lleva ropa elástica que no restrinja tus movimientos.
+- Practica con regularidad: Dedica entre 10 y 60 minutos diarios o algunas veces por semana.
