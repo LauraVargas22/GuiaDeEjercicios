@@ -9,3 +9,10 @@ El boxeo es un deporte de combate que involucra el uso de los puños para atacar
 - Quema de calorías: El boxeo es una excelente forma de perder peso y reducir la grasa corporal, ya que es un ejercicio de alta intensidad.
 - Desarrollo de la coordinación y agilidad: Mejora la coordinación mano-ojo, la rapidez de los reflejos y la agilidad general.
 - Aumento de la fuerza mental: Requiere concentración, disciplina y perseverancia, lo que también fortalece la mente.
+
+## Instrucciones:
+1. Duración de las sesiones: Comienza con entrenamientos de 30 a 45 minutos, 2 a 3 veces por semana.
+2. Frecuencia: Con el tiempo, aumenta la duración y la frecuencia a 4-5 veces por semana si buscas mejorar la resistencia y técnica.
+3. Entrenamiento de fuerza: Incorpora ejercicios de fuerza, como flexiones, abdominales y trabajo con pesas para mejorar tu potencia de golpe.
+4. Combina cardio y técnica: Alterna entre trabajo de técnica (como golpear el saco) y ejercicios cardiovasculares (como saltar la cuerda).
+5. Trabajo en pareja o con saco: Si entrenas con un compañero o con un saco de boxeo, puedes practicar combinaciones de golpes y mejorar tu velocidad, precisión y resistencia.
